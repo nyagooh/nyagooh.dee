@@ -1,0 +1,51 @@
+body{
+    font-family: 'Great Vibes', cursive;
+
+    font-weight: lighter;
+    background-color: #FFEADD;
+    display: flex;
+    flex-direction: column;
+
+}
+.logos{
+    width: 200px;
+    height: 200px;
+}
+.main{
+    flex: 1;
+}
+h1{
+    color:#FCAEAE;
+    font-weight: bold;
+}
+.tile-image{
+    width: 200px;
+    height: 200px;
+    margin-right: 50%;
+}
+
+.card-title{
+    font-weight: bold;
+    color: #FF6666;
+}
+.card-text{
+    width: 45%;
+    font-weight: bolder;
+    font-size: large;
+    color: black;
+}
+footer{
+    padding: 20px;
+    border:10px solid palevioletred ;
+    font-family: sans-serif;
+    background-color: #FCAEAE;
+}
+.shambele{
+    font-family: 'Great Vibes', cursive;
+}
+
+
+
+ 
+  
+
